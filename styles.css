@@ -50,7 +50,7 @@ div {
     gap: 53.02px;
     background-color: #f3f0e4;
     padding: 16px 45px;
-    border-radius: 0 0 15px 15px;
+    border-radius: 15px;
     box-shadow: 0 2px 5px 0 gray;
     opacity: 0;
     transform: translateY(-40px);
@@ -204,6 +204,7 @@ div {
 
 .carousel img {
     width: 100%;
+    border-radius: 15px;
 }
 
 
